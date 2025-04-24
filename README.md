@@ -10,18 +10,27 @@ I’m a **Senior Software Engineering** student at Cal State University San Marc
 - 💼 Help Desk Coordinator at CSUSM’s IITS, managing a team of student technicians  
 - 🤖 Capstone: AR grocery-shopping assistant (Unity + Qualcomm Snapdragon Spaces + Sentis YOLOv8)  
 - 💻 Portfolio site built with Next.js, Tailwind CSS & Radix UI  
-- 🏠 Home-lab: pfSense, Proxmox VMs, Raspberry Pi, AWS EC2 & Jenkins pipelines  
+- 🏠 Home-lab junkie: pfSense, Proxmox VMs, Raspberry Pi, AWS EC2 & Jenkins pipelines  
 - 🏋️‍♂️ Powerlifter in training—always tracking macros and meal prep for gains  
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Frontend         | Backend / DevOps      | Machine Learning            | AR & 3D Printing           |
-|------------------|-----------------------|-----------------------------|----------------------------|
-| Next.js · React  | Node.js · Express     | Python · TensorFlow · Keras | Unity · Snapdragon Spaces   |
-| Tailwind CSS · Radix UI | Docker · Kubernetes  | YOLOv8 · ONNX · Sentis      | Bambu Lab · Ender 3         |
-| TypeScript       | AWS · Proxmox · Jenkins | Google Colab · Roboflow     | CAD → `.stl` → G-code      |
+**Languages**  
+C · C++ · C# · Java · TypeScript · Python
+
+**Frontend**  
+Next.js · React · Tailwind CSS · Radix UI
+
+**Backend / DevOps**  
+Node.js · Express · AWS · Proxmox · Jenkins
+
+**Machine Learning**  
+YOLOv8 · ONNX · Sentis · TensorFlow · Keras · Google Colab · Roboflow
+
+**AR & 3D Printing**  
+Unity · Snapdragon Spaces · Bambu Lab · Ender 3 · CAD → `.stl` → G-code
 
 ---
 
@@ -34,7 +43,7 @@ I’m a **Senior Software Engineering** student at Cal State University San Marc
   Deployed on Vercel with Next.js, showcasing AR/ML demos, home-lab guides, and 3D printing projects (see below).  
 
 - **Home Lab Automation**  
-  PfSense firewall + Proxmox hypervisor running multiple VMs (NAS, Kubernetes, CI/CD).  
+  PfSense firewall + Proxmox hypervisor running multiple VMs (NAS, CI/CD).  
 
 *(See more in [My Portfolio](https://kylebeck.dev) & [Pinned Repos](https://github.com/kylebeck?tab=repositories&type=pinned))*  
 
@@ -44,7 +53,7 @@ I’m a **Senior Software Engineering** student at Cal State University San Marc
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kyle-beck-b09074334/)  
 - 🌐 [My Website](https://kylebeck.dev)  
-- 📧 kbeck@your-email.com  
+- 📧 kbeck473@gmail.com  
 
 ---
 
